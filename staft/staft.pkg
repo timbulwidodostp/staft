@@ -1,5 +1,30 @@
-d 'DEA': Data envelopment analysis
+d 'staft': Fit flexible parametric accelerated failure time models Use staft With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f build_stpm2_mlib.ado
+f lstaft.mlib
+f lstpm2.mlib
+f rcsgen.ado
+f rcsgen.sthlp
+f rcsgen2.ado
+f rcsgen_example.ado
+f staft.ado
+f staft.sthlp
+f staft_postestimation.sthlp
+f staft_pred.ado
+f stpm2.ado
+f stpm2.sthlp
+f stpm2_centpred.ado
+f stpm2_matacode.mata
+f stpm2_ml_hazard.ado
+f stpm2_ml_hazard_rs.ado
+f stpm2_ml_lf_hazard.ado
+f stpm2_ml_lf_hazard_rs.ado
+f stpm2_ml_lf_log.ado
+f stpm2_ml_lf_normal_rs.ado
+f stpm2_ml_lf_theta.ado
+f stpm2_ml_lf_theta_rs.ado
+f stpm2_ml_normal.ado
+f stpm2_ml_odds.ado
+f stpm2_ml_odds_rs.ado
+f stpm2_postestimation.sthlp
+f stpm2_pred.ado
