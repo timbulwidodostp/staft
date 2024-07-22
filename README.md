@@ -1,5 +1,5 @@
 # staft
-Fit flexible parametric accelerated failure time models Use With STATA 18
+Fit flexible parametric accelerated failure time models Use staft With STATA 18
 
 Olah Data Semarang
 
